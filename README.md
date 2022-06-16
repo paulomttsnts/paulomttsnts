@@ -1,6 +1,6 @@
 # Olá, eu sou o Paulo.
 
-<p>Sou estudante de desenvolvimento de software na <a href="https://blueedtech.com.br/" target="_blank">Blue EdTech.</a></p>
+<p>Sou estudante de desenvolvimento de software na Blue.</a></p>
 <div>
     <a href="mailto:paulomttsnts@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/paulo-santos-627542239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
