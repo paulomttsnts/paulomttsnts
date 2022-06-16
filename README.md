@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo.
+# Olá, eu sou o Paulo Santos.
 
 <p>Sou estudante de desenvolvimento de software na Blue.</a></p>
 <div>
